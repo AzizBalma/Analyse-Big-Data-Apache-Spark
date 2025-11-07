@@ -5,7 +5,7 @@
 
 **Analyse distribuée de 13.8 millions de trajets vélo avec Apache Spark**
 
-*Projet académique INGC 225 - Plateformes Big Data | ESMT-Dakar 2025*
+*Projet académique*
 
 ---
 
